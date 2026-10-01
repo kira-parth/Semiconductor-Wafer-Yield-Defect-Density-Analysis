@@ -19,6 +19,20 @@ The simulation includes:
 - Yield distribution analysis
 - Yield versus defect density analysis
 - Analytical yield validation using a Poisson model
+  ## Wafer Defect Map
+
+![Wafer Defect Map](<img width="1536" height="768" alt="defect map" src="https://github.com/user-attachments/assets/a9f5b786-f6e2-4c46-a13b-0010f32cca79" />
+)
+
+## Monte Carlo Yield Distribution
+
+![Monte Carlo Yield Distribution](<img width="800" height="500" alt="Figure 2" src="https://github.com/user-attachments/assets/189a660d-de87-4ceb-af3d-e42e496b7f60" />
+)
+
+## Yield vs Defect Density
+
+![Yield vs Defect Density](<img width="801" height="504" alt="Figure_1" src="https://github.com/user-attachments/assets/cb00aff7-81be-4fbd-8b39-b30ce0785843" />
+)
 
 ## Technologies Used
 
